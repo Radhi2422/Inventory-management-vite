@@ -1,0 +1,106 @@
+.problem-card{
+    height:100vh;
+    overflow-y:auto;
+    background:#1e1e1e;
+    color:#ffffff;
+    padding:30px;
+    border-right:1px solid #303030;
+}
+
+.problem-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:30px;
+}
+
+.problem-header h2{
+    font-size:30px;
+    font-weight:600;
+}
+
+.problem-section{
+    margin-bottom:35px;
+}
+
+.problem-section h3{
+    margin-bottom:15px;
+    color:#ffa116;
+    font-size:20px;
+}
+
+.problem-section p{
+    color:#d0d0d0;
+    line-height:1.8;
+}
+
+.problem-section ul{
+    padding-left:20px;
+}
+
+.problem-section li{
+    margin-bottom:10px;
+    color:#d0d0d0;
+}
+
+.example-box{
+    margin-top:20px;
+    padding:20px;
+    background:#2a2a2a;
+    border-radius:8px;
+}
+
+.example-box h4{
+    margin-bottom:15px;
+    color:#ffffff;
+}
+
+.io-box{
+    margin-bottom:15px;
+}
+
+.io-box strong{
+    display:block;
+    margin-bottom:8px;
+    color:#ffa116;
+}
+
+.io-box pre{
+    background:#151515;
+    padding:15px;
+    border-radius:6px;
+    color:#8eea8e;
+    font-family:Consolas, monospace;
+    overflow-x:auto;
+}
+
+.difficulty{
+    padding:8px 18px;
+    border-radius:20px;
+    font-size:14px;
+    font-weight:bold;
+}
+
+.easy{
+    background:rgba(0,200,83,.15);
+    color:#00c853;
+}
+
+.medium{
+    background:rgba(255,165,0,.15);
+    color:orange;
+}
+
+.hard{
+    background:rgba(255,82,82,.15);
+    color:#ff5252;
+}
+
+::-webkit-scrollbar{
+    width:8px;
+}
+
+::-webkit-scrollbar-thumb{
+    background:#555;
+    border-radius:5px;
+}

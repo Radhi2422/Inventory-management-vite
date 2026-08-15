@@ -1,0 +1,84 @@
+2026-08-01T05:22:44.657Z [INFO]: Products fetched successfully
+2026-08-01T05:22:50.458Z [INFO]: Products fetched successfully
+2026-08-01T05:23:44.674Z [INFO]: Products fetched successfully
+2026-08-01T05:23:48.713Z [INFO]: Products fetched successfully
+2026-08-01T05:26:22.152Z [INFO]: Products fetched successfully
+2026-08-01T05:26:22.597Z [INFO]: Products fetched successfully
+2026-08-01T05:26:28.456Z [INFO]: Products fetched successfully
+2026-08-01T05:26:29.166Z [INFO]: Products fetched successfully
+2026-08-01T05:27:23.199Z [INFO]: Products fetched successfully
+2026-08-01T05:27:23.690Z [INFO]: Products fetched successfully
+2026-08-01T05:31:44.500Z [INFO]: Products fetched successfully
+2026-08-01T05:31:44.972Z [INFO]: Products fetched successfully
+2026-08-01T05:31:55.179Z [INFO]: Products fetched successfully
+2026-08-01T05:31:55.645Z [INFO]: Products fetched successfully
+2026-08-01T05:31:58.869Z [INFO]: Products fetched successfully
+2026-08-01T05:32:00.478Z [INFO]: Products fetched successfully
+2026-08-01T05:32:03.354Z [INFO]: Products fetched successfully
+2026-08-01T05:33:37.633Z [INFO]: Products fetched successfully
+2026-08-01T05:33:38.397Z [INFO]: Products fetched successfully
+2026-08-01T14:16:41.178Z [INFO]: Products fetched successfully
+2026-08-01T14:16:41.534Z [INFO]: Products fetched successfully
+2026-08-01T14:16:59.134Z [INFO]: Products fetched successfully
+2026-08-01T14:16:59.494Z [INFO]: Products fetched successfully
+2026-08-01T14:17:08.117Z [INFO]: Products fetched successfully
+2026-08-01T14:17:08.451Z [INFO]: Products fetched successfully
+2026-08-01T14:17:11.450Z [INFO]: Products fetched successfully
+2026-08-01T14:17:12.860Z [INFO]: Products fetched successfully
+2026-08-01T14:17:37.039Z [INFO]: Products fetched successfully
+2026-08-01T14:17:37.386Z [INFO]: Products fetched successfully
+2026-08-01T14:17:49.218Z [INFO]: Products fetched successfully
+2026-08-01T14:17:49.536Z [INFO]: Products fetched successfully
+2026-08-01T14:18:58.270Z [INFO]: Products fetched successfully
+2026-08-01T14:18:58.656Z [INFO]: Products fetched successfully
+2026-08-01T14:19:46.783Z [INFO]: Products fetched successfully
+2026-08-01T14:19:47.124Z [INFO]: Products fetched successfully
+2026-08-02T14:22:06.651Z [INFO]: Products fetched successfully
+2026-08-02T14:22:07.369Z [INFO]: Products fetched successfully
+2026-08-02T14:22:16.243Z [INFO]: Products fetched successfully
+2026-08-02T14:22:16.906Z [INFO]: Products fetched successfully
+2026-08-02T14:22:20.541Z [INFO]: Products fetched successfully
+2026-08-02T14:22:21.301Z [INFO]: Products fetched successfully
+2026-08-02T14:22:25.521Z [INFO]: Products fetched successfully
+2026-08-02T14:22:26.289Z [INFO]: Products fetched successfully
+2026-08-02T14:25:50.357Z [INFO]: Products fetched successfully
+2026-08-02T14:25:50.714Z [INFO]: Products fetched successfully
+2026-08-02T14:27:21.440Z [INFO]: Products fetched successfully
+2026-08-02T14:27:21.783Z [INFO]: Products fetched successfully
+2026-08-05T08:44:52.384Z [INFO]: Products fetched successfully
+2026-08-05T08:44:52.875Z [INFO]: Products fetched successfully
+2026-08-05T08:45:31.528Z [INFO]: Products fetched successfully
+2026-08-05T08:45:32.070Z [INFO]: Products fetched successfully
+2026-08-05T08:45:44.800Z [INFO]: Products fetched successfully
+2026-08-05T08:45:45.233Z [INFO]: Products fetched successfully
+2026-08-05T08:46:22.191Z [INFO]: Products fetched successfully
+2026-08-05T08:46:22.627Z [INFO]: Products fetched successfully
+2026-08-05T08:46:35.478Z [INFO]: Products fetched successfully
+2026-08-05T08:46:35.943Z [INFO]: Products fetched successfully
+2026-08-08T04:47:34.127Z [INFO]: Products fetched successfully
+2026-08-08T04:47:36.454Z [INFO]: Products fetched successfully
+2026-08-08T05:24:40.517Z [ERROR]: Failed to fetch products product is not defined
+2026-08-08T05:24:42.641Z [ERROR]: Failed to fetch products product is not defined
+2026-08-08T06:05:04.782Z [INFO]: Products fetched successfully
+2026-08-08T06:05:05.203Z [INFO]: Products fetched successfully
+2026-08-08T06:05:21.860Z [INFO]: Products fetched successfully
+2026-08-08T06:05:22.566Z [INFO]: Products fetched successfully
+2026-08-09T18:39:28.803Z [INFO]: Server running on 5001
+2026-08-09T18:45:11.474Z [INFO]: Products fetched successfully
+2026-08-09T18:45:11.892Z [INFO]: Products fetched successfully
+2026-08-09T18:45:19.456Z [INFO]: Products fetched successfully
+2026-08-09T18:45:19.931Z [INFO]: Products fetched successfully
+2026-08-09T18:45:31.300Z [INFO]: Products fetched successfully
+2026-08-09T18:45:31.618Z [INFO]: Products fetched successfully
+2026-08-09T18:45:40.041Z [INFO]: Products fetched successfully
+2026-08-09T18:45:40.376Z [INFO]: Products fetched successfully
+2026-08-09T18:45:51.609Z [INFO]: Products fetched successfully
+2026-08-09T18:45:52.059Z [INFO]: Products fetched successfully
+2026-08-09T18:54:51.721Z [INFO]: Products fetched successfully
+2026-08-09T18:54:52.235Z [INFO]: Products fetched successfully
+2026-08-09T18:55:37.705Z [ERROR]: [object Object]
+2026-08-09T18:57:32.732Z [INFO]: Products fetched successfully
+2026-08-09T18:57:33.237Z [INFO]: Products fetched successfully
+2026-08-09T18:57:57.363Z [ERROR]: [object Object]
+2026-08-09T18:59:46.269Z [ERROR]: [object Object]
+2026-08-09T19:01:03.131Z [ERROR]: [object Object]

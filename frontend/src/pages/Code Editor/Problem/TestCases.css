@@ -1,0 +1,54 @@
+.testcase-container{
+    margin-top:20px;
+    background:#1f1f1f;
+    border:1px solid #333;
+    border-radius:10px;
+    overflow:hidden;
+}
+
+.testcase-header{
+    background:#2b2b2b;
+    padding:15px 20px;
+    border-bottom:1px solid #333;
+}
+
+.testcase-header h3{
+    color:#ffffff;
+    font-size:20px;
+    margin:0;
+}
+
+.testcase-card{
+    padding:20px;
+    border-bottom:1px solid #2d2d2d;
+}
+
+.testcase-card:last-child{
+    border-bottom:none;
+}
+
+.testcase-card h4{
+    color:#ffa116;
+    margin-bottom:15px;
+}
+
+.testcase-box{
+    margin-bottom:15px;
+}
+
+.testcase-box label{
+    display:block;
+    color:#bfbfbf;
+    font-weight:bold;
+    margin-bottom:8px;
+}
+
+.testcase-box pre{
+    background:#111827;
+    color:#e5e7eb;
+    padding:15px;
+    border-radius:6px;
+    font-family:Consolas, monospace;
+    overflow-x:auto;
+    white-space:pre-wrap;
+}

@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #1a1a1a;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.dashboard {
+    width: 90%;
+    max-width: 1100px;
+    margin: 40px auto;
+}
+
+.header {
+    margin-bottom: 35px;
+}
+
+.header h1 {
+    font-size: 34px;
+    color: #ffffff;
+}
+
+.header p {
+    margin-top: 8px;
+    color: #b8b8b8;
+}
+
+.problem-container {
+    background: #262626;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 5px 20px rgba(0,0,0,.35);
+}
+
+.table-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #303030;
+    padding: 18px 25px;
+}
+
+.table-header h2 {
+    font-size: 22px;
+}
+
+.table-header span {
+    color: #bfbfbf;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background: #333;
+}
+
+th {
+    text-align: left;
+    padding: 18px;
+    font-weight: 600;
+    color: #d6d6d6;
+}
+
+td {
+    padding: 18px;
+    border-top: 1px solid #3d3d3d;
+}
+
+tbody tr:hover {
+    background: #313131;
+}
+
+.problem-title {
+    color: #4ea1ff;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.problem-title:hover {
+    color: #79bbff;
+    text-decoration: underline;
+}
+
+.difficulty {
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.easy {
+    color: #00c853;
+    background: rgba(0,200,83,.15);
+}
+
+.medium {
+    color: orange;
+    background: rgba(255,165,0,.15);
+}
+
+.hard {
+    color: #ff5252;
+    background: rgba(255,82,82,.15);
+}
