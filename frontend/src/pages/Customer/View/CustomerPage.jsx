@@ -3,7 +3,7 @@ import axios from "axios";
 // import useLogger from "../../../hooks/useLogger"
 // import useErrorHandler from "../../../hooks/useErrorHandler";
 // import "./CustomerPage.css";
-// import { logFrontendError } from "../../controllers/logFrontendErrorController";
+import { logFrontendError } from "../../controllers/logFrontendErrorController";
 const CustomerList = () => {
   const [customers, setCustomers] = useState([]);
 
@@ -34,11 +34,10 @@ const CustomerList = () => {
 
       // logInfo("Customer list fetched successfully", res.data.customerData);
     } catch (err) {
-      console.log(err);
-      // logFrontendError(err, {
-      //   component: "ProductList",
-      //   method: "fetchProducts"
-    // });
+      logFrontendError(err, {
+        component: "ProductList",
+        method: "fetchProducts"
+    });
     }
   };
 
