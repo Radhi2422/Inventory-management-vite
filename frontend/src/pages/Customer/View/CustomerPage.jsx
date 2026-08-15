@@ -38,7 +38,7 @@ const CustomerList = () => {
       // logFrontendError(err, {
       //   component: "ProductList",
       //   method: "fetchProducts"
-    });
+    // });
     }
   };
 
